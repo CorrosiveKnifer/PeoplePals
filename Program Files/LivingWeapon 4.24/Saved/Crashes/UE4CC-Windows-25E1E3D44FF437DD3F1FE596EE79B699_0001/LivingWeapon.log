@@ -1,0 +1,1081 @@
+﻿Log file open, 02/27/20 19:33:08
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: LivingWeapon
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.080903
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +12:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11100242
+LogInit: Engine Version: 4.24.2-11100242+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Jan 24 2020 02:05:53
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: E:/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Config/Windows/Engine.ini]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:1]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.02.27-06.33.08:905][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Config/Windows/Engine.ini]
+[2020.02.27-06.33.08:906][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Config/Windows/Engine.ini]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Config/Windows/Engine.ini]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.27-06.33.08:906][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Config/Windows/Engine.ini]
+[2020.02.27-06.33.08:906][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Config/Windows/Engine.ini]
+[2020.02.27-06.33.08:912][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.27-06.33.08:913][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.27-06.33.08:914][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.27-06.33.08:914][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.27-06.33.08:914][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.27-06.33.08:914][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.27-06.33.08:914][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.27-06.33.08:914][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.27-06.33.08:914][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.27-06.33.08:914][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.27-06.33.08:914][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.27-06.33.08:914][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.27-06.33.08:914][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.27-06.33.08:914][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.27-06.33.08:914][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-06.33.08:914][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.27-06.33.08:914][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.27-06.33.08:914][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-06.33.08:914][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.27-06.33.08:914][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.27-06.33.08:914][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.27-06.33.08:914][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.27-06.33.08:914][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.27-06.33.08:916][  0]LogHAL: Display: Platform has ~ 16 GB [17136586752 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.27-06.33.08:916][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.27-06.33.08:916][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.27-06.33.08:916][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.27-06.33.08:917][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Config/Windows/Engine.ini]
+[2020.02.27-06.33.08:917][  0]LogInit: Computer: DESKTOP-5M5VK0I
+[2020.02.27-06.33.08:917][  0]LogInit: User: CorrosiveKnifer
+[2020.02.27-06.33.08:917][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.02.27-06.33.08:917][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.27-06.33.08:917][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.02.27-06.33.08:917][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.27-06.33.08:917][  0]LogMemory: Process Physical Memory: 105.72 MB used, 105.73 MB peak
+[2020.02.27-06.33.08:917][  0]LogMemory: Process Virtual Memory: 100.64 MB used, 100.64 MB peak
+[2020.02.27-06.33.08:917][  0]LogMemory: Physical Memory: 8051.03 MB used,  8291.69 MB free, 16342.72 MB total
+[2020.02.27-06.33.08:917][  0]LogMemory: Virtual Memory: 5137.50 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.02.27-06.33.08:920][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.02.27-06.33.08:936][  0]LogInit: Using OS detected language (en-GB).
+[2020.02.27-06.33.08:936][  0]LogInit: Using OS detected locale (en-NZ).
+[2020.02.27-06.33.08:937][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.02.27-06.33.09:109][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.27-06.33.09:147][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.27-06.33.09:147][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.27-06.33.09:256][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.27-06.33.09:256][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.02.27-06.33.09:256][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.02.27-06.33.09:257][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.27-06.33.09:331][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2020.02.27-06.33.09:331][  0]LogD3D11RHI:       2988/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.02.27-06.33.09:333][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.27-06.33.09:333][  0]LogD3D11RHI:       0/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.27-06.33.09:333][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.27-06.33.09:368][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.27-06.33.09:368][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.27-06.33.09:368][  0]LogWindows: EnumDisplayDevices:
+[2020.02.27-06.33.09:369][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2020.02.27-06.33.09:369][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:1)
+[2020.02.27-06.33.09:370][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2020.02.27-06.33.09:370][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2020.02.27-06.33.09:370][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.02.27-06.33.09:370][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2020.02.27-06.33.09:370][  0]LogD3D11RHI:   Driver Version: 441.20 (internal:26.21.14.4120, unified:441.20)
+[2020.02.27-06.33.09:370][  0]LogD3D11RHI:      Driver Date: 11-6-2019
+[2020.02.27-06.33.09:370][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2020.02.27-06.33.09:422][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.02.27-06.33.09:422][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.27-06.33.09:454][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.27-06.33.09:724][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.02.27-06.33.09:768][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.02.27-06.33.09:768][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.02.27-06.33.09:768][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.02.27-06.33.09:768][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.02.27-06.33.09:768][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.02.27-06.33.09:768][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.02.27-06.33.09:768][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.02.27-06.33.09:768][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.02.27-06.33.09:768][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.02.27-06.33.09:768][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.27-06.33.09:768][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.02.27-06.33.09:768][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.02.27-06.33.09:768][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.27-06.33.09:768][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.27-06.33.09:768][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.27-06.33.09:768][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.27-06.33.09:768][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.02.27-06.33.09:768][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.02.27-06.33.09:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.02.27-06.33.09:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.02.27-06.33.09:793][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.27-06.33.09:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.02.27-06.33.09:805][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.02.27-06.33.09:812][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.02.27-06.33.09:819][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.02.27-06.33.09:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.02.27-06.33.09:848][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.02.27-06.33.09:848][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.02.27-06.33.09:861][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.02.27-06.33.09:861][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.02.27-06.33.09:867][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.27-06.33.09:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.02.27-06.33.09:881][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.02.27-06.33.09:887][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.02.27-06.33.09:887][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.27-06.33.09:889][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.27-06.33.09:904][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Intermediate/Shaders/WorkingDirectory/7396/).
+[2020.02.27-06.33.09:904][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Corrosive Knifer/AppData/Local/Temp/UnrealShaderWorkingDir/073B6EFE4A3885349AE83EA936C25832/'.
+[2020.02.27-06.33.09:905][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.27-06.33.09:905][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.27-06.33.09:905][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.27-06.33.10:648][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.27-06.33.10:717][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/Corrosive Knifer/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.27-06.33.10:717][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Corrosive Knifer/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.02.27-06.33.10:717][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.27-06.33.10:717][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.27-06.33.10:717][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.27-06.33.10:717][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.27-06.33.10:729][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.27-06.33.10:729][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.27-06.33.10:729][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.27-06.33.10:730][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Corrosive Knifer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.27-06.33.10:730][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.27-06.33.10:731][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.27-06.33.10:753][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.27-06.33.10:755][  0]LogSlate: Using FreeType 2.10.0
+[2020.02.27-06.33.10:756][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.27-06.33.10:808][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2020.02.27-06.33.11:114][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.27-06.33.11:273][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.27-06.33.11:273][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.27-06.33.11:273][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.27-06.33.11:273][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.27-06.33.11:273][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.27-06.33.11:287][  0]LogNetVersion: LivingWeapon 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2088032835)
+[2020.02.27-06.33.12:451][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.044516 seconds
+[2020.02.27-06.33.12:457][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.02.27-06.33.12:457][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.02.27-06.33.12:457][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.27-06.33.12:820][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.27-06.33.12:822][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.27-06.33.12:863][  0]SourceControl: Source control is disabled
+[2020.02.27-06.33.12:863][  0]SourceControl: Source control is disabled
+[2020.02.27-06.33.12:864][  0]SourceControl: Source control is disabled
+[2020.02.27-06.33.12:865][  0]SourceControl: Source control is disabled
+[2020.02.27-06.33.12:865][  0]SourceControl: Source control is disabled
+[2020.02.27-06.33.12:938][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.27-06.33.12:950][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.27-06.33.12:950][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.27-06.33.13:033][  0]LogOcInput: OculusInput pre-init called
+[2020.02.27-06.33.13:040][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.02.27-06.33.13:040][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.02.27-06.33.13:106][  0]LogEngine: Initializing Engine...
+[2020.02.27-06.33.13:107][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.27-06.33.13:108][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.27-06.33.13:453][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.27-06.33.13:458][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.27-06.33.13:482][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.27-06.33.13:482][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.27-06.33.13:482][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.27-06.33.13:482][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.27-06.33.13:482][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.27-06.33.13:482][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.27-06.33.13:482][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.27-06.33.13:482][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.27-06.33.13:482][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.27-06.33.13:482][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.27-06.33.13:531][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.27-06.33.13:531][  0]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.02.27-06.33.13:531][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.02.27-06.33.13:531][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.27-06.33.13:531][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.27-06.33.13:531][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.27-06.33.13:531][  0]LogAudioMixer: Display: Channel Order:
+[2020.02.27-06.33.13:532][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.27-06.33.13:532][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.02.27-06.33.13:554][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.02.27-06.33.13:561][  0]LogInit: FAudioDevice initialized.
+[2020.02.27-06.33.13:561][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.27-06.33.13:643][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/Corrosive Knifer/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.27-06.33.13:651][  0]LogInit: Texture streaming: Enabled
+[2020.02.27-06.33.13:658][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.27-06.33.13:658][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.02.27-06.33.13:660][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.02.27-06.33.13:719][  0]LogInit: Transaction tracking system initialized
+[2020.02.27-06.33.13:728][  0]BlueprintLog: New page: Editor Load
+[2020.02.27-06.33.13:748][  0]LocalizationService: Localization service is disabled
+[2020.02.27-06.33.14:652][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.27-06.33.14:652][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.27-06.33.15:650][  0]LogFileCache: Scanning file cache for directory 'E:/Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/' took 0.52s
+[2020.02.27-06.33.15:650][  0]SourceControl: Source control is disabled
+[2020.02.27-06.33.15:651][  0]Cmd: MAP LOAD FILE="../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.27-06.33.15:651][  0]LightingResults: New page: Lighting Build
+[2020.02.27-06.33.15:651][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.27-06.33.15:651][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.27-06.33.15:652][  0]MapCheck: New page: Map Check
+[2020.02.27-06.33.15:652][  0]LightingResults: New page: Lighting Build
+[2020.02.27-06.33.15:675][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.02.27-06.33.16:784][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.02.27-06.33.16:785][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.27-06.33.16:812][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.02.27-06.33.16:812][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.27-06.33.16:812][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.107ms to complete.
+[2020.02.27-06.33.16:812][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 1.161
+[2020.02.27-06.33.17:909][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-06.33.17:917][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-06.33.17:922][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-06.33.17:930][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-06.33.18:078][  0]LogCollectionManager: Loaded 0 collections in 0.000965 seconds
+[2020.02.27-06.33.18:252][  0]LogFileCache: Scanning file cache for directory 'E:/Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Collections/' took 0.00s
+[2020.02.27-06.33.18:252][  0]LogFileCache: Scanning file cache for directory 'E:/Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/Developers/CorrosiveKnifer/Collections/' took 0.00s
+[2020.02.27-06.33.18:252][  0]LogFileCache: Scanning file cache for directory 'E:/Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/Collections/' took 0.00s
+[2020.02.27-06.33.18:252][  0]LogContentBrowser: Native class hierarchy populated in 0.0072 seconds. Added 3015 classes and 717 folders.
+[2020.02.27-06.33.18:460][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.02.27-06.33.20:050][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.27-06.33.20:100][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.02.27-06.33.20:442][  0]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.27-06.33.20:445][  0]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.27-06.33.20:464][  0]LogSlate: Took 0.014650 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.27-06.33.20:741][  0]LogRenderer: Reallocating scene render targets to support 1172x580 Format 10 NumSamples 1 (Frame:1).
+[2020.02.27-06.33.20:905][  0]LogSlate: Took 0.019527 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.27-06.33.20:964][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.27-06.33.20:964][  0]LogLoad: (Engine Initialization) Total time: 13.13 seconds
+[2020.02.27-06.33.20:964][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.27-06.33.21:085][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.27-06.33.21:713][  9]LogAssetRegistry: Asset discovery search completed in 10.9052 seconds
+[2020.02.27-06.33.21:714][  9]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2020.02.27-06.40.14:622][363]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.27-06.40.14:641][363]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tank/Blueprints/Parents/Paper_Part.Paper_Part
+[2020.02.27-06.40.15:148][363]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 121 classes and 0 folders.
+[2020.02.27-06.40.16:663][363]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.27-06.41.20:305][834]LogSlate: Took 0.020123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.27-06.41.20:314][835]LogSlate: Window 'Paper_Part' being destroyed
+[2020.02.27-06.52.55:977][729]LogSlate: Took 0.263124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.02.27-06.54.23:475][600]LogEditorTransaction: Undo Change Parameter Type
+[2020.02.27-06.55.39:774][158]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.02.27-06.55.39:776][158]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.037
+[2020.02.27-06.55.39:777][158]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tank/Blueprints/Parents/Paper_Part] ([1] browsable assets)...
+[2020.02.27-06.55.39:777][158]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tank/Blueprints/Parents/Paper_Part]
+[2020.02.27-06.55.40:142][158]LogSavePackage: Moving '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Paper_Part_Auto1685486944376893D997DFB9A28AA122E.tmp' to '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Autosaves/Game/Tank/Blueprints/Parents/Paper_Part_Auto1.uasset'
+[2020.02.27-06.55.40:142][158]LogFileHelpers: Auto-saving content packages took 0.366
+[2020.02.27-06.56.31:367][167]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2020.02.27-06.56.33:399][374]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.27-06.56.33:399][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.27-07.00.58:305][496]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{5742bd04-dfcc-4c75-988e-22d422b2fe68}.
+[2020.02.27-07.00.58:305][496]LogTemp: Resetting audio stream to device id 
+[2020.02.27-07.00.58:351][496]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.27-07.00.58:351][496]LogAudioMixer: Display: Name: LG FULL HD (NVIDIA High Definition Audio)
+[2020.02.27-07.00.58:351][496]LogAudioMixer: Display: Is Default: Yes
+[2020.02.27-07.00.58:351][496]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.27-07.00.58:351][496]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.27-07.00.58:351][496]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.27-07.00.58:351][496]LogAudioMixer: Display: Channel Order:
+[2020.02.27-07.00.58:351][496]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.27-07.00.58:351][496]LogAudioMixer: Display: 1: FrontRight
+[2020.02.27-07.07.28:322][294]BlueprintLog: New page: Compile Paper_Part
+[2020.02.27-07.07.28:565][294]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.02.27-07.07.29:261][359]LogSavePackage: Moving '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Paper_Part0166C45644796318523AD5982845D055.tmp' to '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/Tank/Blueprints/Parents/Paper_Part.uasset'
+[2020.02.27-07.07.29:280][359]AssetCheck: New page: Asset Save: Paper_Part
+[2020.02.27-07.07.29:280][359]LogContentValidation: Display: Validating Blueprint /Game/Tank/Blueprints/Parents/Paper_Part.Paper_Part
+[2020.02.27-07.08.38:761][220]LogSavePackage: Moving '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Paper_Part83024F6A4C50CB1CE5C5F2970DC813B1.tmp' to '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/Tank/Blueprints/Parents/Paper_Part.uasset'
+[2020.02.27-07.08.38:776][220]AssetCheck: New page: Asset Save: Paper_Part
+[2020.02.27-07.08.38:776][220]LogContentValidation: Display: Validating Blueprint /Game/Tank/Blueprints/Parents/Paper_Part.Paper_Part
+[2020.02.27-07.08.39:068][251]BlueprintLog: New page: Compile Paper_Part
+[2020.02.27-07.08.39:095][251]LogBlueprint: Error: [Compiler Paper_Part] Variable node  Get Position  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.02.27-07.08.39:285][251]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.02.27-07.08.53:753][883]LogSavePackage: Moving '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Paper_Part3E84EE2E4FE97AFE9043508C0E1C34FE.tmp' to '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/Tank/Blueprints/Parents/Paper_Part.uasset'
+[2020.02.27-07.08.53:768][883]AssetCheck: New page: Asset Save: Paper_Part
+[2020.02.27-07.08.53:768][883]LogContentValidation: Display: Validating Blueprint /Game/Tank/Blueprints/Parents/Paper_Part.Paper_Part
+[2020.02.27-07.08.54:190][928]BlueprintLog: New page: Compile Paper_Part
+[2020.02.27-07.08.54:408][928]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.02.27-07.09.09:247][481]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{e0b3a0c9-fcfe-492a-b267-40fc54597ade}.
+[2020.02.27-07.09.09:247][481]LogTemp: Resetting audio stream to device id 
+[2020.02.27-07.09.09:322][481]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.27-07.09.09:322][481]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.02.27-07.09.09:322][481]LogAudioMixer: Display: Is Default: Yes
+[2020.02.27-07.09.09:322][481]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.27-07.09.09:322][481]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.27-07.09.09:322][481]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.27-07.09.09:322][481]LogAudioMixer: Display: Channel Order:
+[2020.02.27-07.09.09:322][481]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.27-07.09.09:322][481]LogAudioMixer: Display: 1: FrontRight
+[2020.02.27-07.09.17:855][704]LogSavePackage: Moving '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Paper_Part5C39220C483D6993149518A5729CCE15.tmp' to '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/Tank/Blueprints/Parents/Paper_Part.uasset'
+[2020.02.27-07.09.17:868][704]AssetCheck: New page: Asset Save: Paper_Part
+[2020.02.27-07.09.17:868][704]LogContentValidation: Display: Validating Blueprint /Game/Tank/Blueprints/Parents/Paper_Part.Paper_Part
+[2020.02.27-07.10.32:994][312]LogSavePackage: Moving '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Paper_PartA0D083A641C540969C22D6AE7EE425C9.tmp' to '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/Tank/Blueprints/Parents/Paper_Part.uasset'
+[2020.02.27-07.10.33:009][312]AssetCheck: New page: Asset Save: Paper_Part
+[2020.02.27-07.10.33:009][312]LogContentValidation: Display: Validating Blueprint /Game/Tank/Blueprints/Parents/Paper_Part.Paper_Part
+[2020.02.27-07.10.33:331][349]BlueprintLog: New page: Compile Paper_Part
+[2020.02.27-07.10.33:555][349]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.02.27-07.11.04:656][983]LogEditorTransaction: Undo Move Node
+[2020.02.27-07.11.06:091][ 96]BlueprintLog: New page: Compile Paper_Part
+[2020.02.27-07.11.06:303][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.02.27-07.11.07:594][225]LogSavePackage: Moving '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Paper_Part97B6CE6640C14DB50700C7992CD50E16.tmp' to '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/Tank/Blueprints/Parents/Paper_Part.uasset'
+[2020.02.27-07.11.07:608][225]AssetCheck: New page: Asset Save: Paper_Part
+[2020.02.27-07.11.07:608][225]LogContentValidation: Display: Validating Blueprint /Game/Tank/Blueprints/Parents/Paper_Part.Paper_Part
+[2020.02.27-07.11.10:981][574]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.27-07.11.10:997][574]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.02.27-07.11.10:997][574]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.27-07.11.11:148][574]PIE: New page: PIE session: 2DSideScrollerExampleMap (28/02/2020, 9:11:10 am)
+[2020.02.27-07.11.11:149][574]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.02.27-07.11.11:150][574]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.02.27-07.11.11:150][574]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.02.27-07.11.11:153][574]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002315s)
+[2020.02.27-07.11.11:154][574]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.02.27-07.11.11:154][574]LogPlayLevel: PIE: World Init took: (0.001157s)
+[2020.02.27-07.11.11:154][574]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003724s)
+[2020.02.27-07.11.11:187][574]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.02.27-07.11.11:188][574]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.27-07.11.11:188][574]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.27-07.11.11:188][574]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.27-07.11.11:188][574]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.27-07.11.11:188][574]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.27-07.11.11:188][574]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.27-07.11.11:188][574]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.27-07.11.11:188][574]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.27-07.11.11:188][574]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.27-07.11.11:188][574]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.27-07.11.11:228][574]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.27-07.11.11:228][574]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.02.27-07.11.11:228][574]LogAudioMixer: Display: Is Default: Yes
+[2020.02.27-07.11.11:228][574]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.27-07.11.11:228][574]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.27-07.11.11:228][574]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.27-07.11.11:228][574]LogAudioMixer: Display: Channel Order:
+[2020.02.27-07.11.11:228][574]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.27-07.11.11:228][574]LogAudioMixer: Display: 1: FrontRight
+[2020.02.27-07.11.11:250][574]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.02.27-07.11.11:251][574]LogInit: FAudioDevice initialized.
+[2020.02.27-07.11.11:292][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-07.11.11:293][574]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.27-07.11.11:295][574]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.02.27-20.11.11
+[2020.02.27-07.11.11:295][574]LogWorld: Bringing up level for play took: 0.000821
+[2020.02.27-07.11.11:295][574]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.02.27-07.11.11:333][574]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.02.27-07.11.11:420][574]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_LinkToMap', from offset 388
+[2020.02.27-07.11.11:420][574]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Player/BasePlayer.BasePlayer_C:ReceiveBeginPlay
+	Function /Game/Player/BasePlayer.BasePlayer_C:ExecuteUbergraph_BasePlayer
+	Function /Game/Tank/Blueprints/Parents/Paper_Part.Paper_Part_C:AddNew
+	Function /Game/Tank/Blueprints/Parents/Paper_Part.Paper_Part_C:AddExisting
+
+[2020.02.27-07.11.11:463][574]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.02.27-07.11.21:529][574]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{5742bd04-dfcc-4c75-988e-22d422b2fe68}.
+[2020.02.27-07.11.21:529][574]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{5742bd04-dfcc-4c75-988e-22d422b2fe68}.
+[2020.02.27-07.11.51:949][574]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2020.02.27-07.14.00:653][574]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 169.634
+[2020.02.27-07.14.00:654][574]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.02.27-07.14.00:924][574]LogTemp: Resetting audio stream to device id 
+[2020.02.27-07.14.00:994][574]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.27-07.14.00:995][574]LogAudioMixer: Display: Name: LG FULL HD (NVIDIA High Definition Audio)
+[2020.02.27-07.14.00:995][574]LogAudioMixer: Display: Is Default: Yes
+[2020.02.27-07.14.00:995][574]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.27-07.14.00:995][574]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.27-07.14.00:995][574]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.27-07.14.00:995][574]LogAudioMixer: Display: Channel Order:
+[2020.02.27-07.14.00:995][574]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.27-07.14.00:995][574]LogAudioMixer: Display: 1: FrontRight
+[2020.02.27-07.14.01:013][574]LogTemp: Resetting audio stream to device id 
+[2020.02.27-07.14.01:071][574]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.27-07.14.01:071][574]LogAudioMixer: Display: Name: LG FULL HD (NVIDIA High Definition Audio)
+[2020.02.27-07.14.01:071][574]LogAudioMixer: Display: Is Default: Yes
+[2020.02.27-07.14.01:071][574]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.27-07.14.01:071][574]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.27-07.14.01:071][574]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.27-07.14.01:071][574]LogAudioMixer: Display: Channel Order:
+[2020.02.27-07.14.01:071][574]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.27-07.14.01:071][574]LogAudioMixer: Display: 1: FrontRight
+[2020.02.27-07.14.06:922][225]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-07.14.06:922][225]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-07.14.06:922][225]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.02.27-07.14.06:922][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-07.14.06:922][225]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.02.27-07.14.06:936][225]LogSlate: Window 'LivingWeapon Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.27-07.14.06:940][225]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-07.14.06:941][225]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.27-07.14.06:941][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.27-07.14.06:945][225]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.27-07.14.06:945][225]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.02.27-07.14.06:952][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.27-07.14.06:982][225]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-07.14.06:994][225]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.02.27-07.14.07:028][229]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.02.27-07.14.42:341][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.02.27-07.14.42:342][485]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.050
+[2020.02.27-07.14.42:342][485]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tank/Blueprints/Parents/Paper_Part] ([1] browsable assets)...
+[2020.02.27-07.14.42:342][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tank/Blueprints/Parents/Paper_Part]
+[2020.02.27-07.14.42:397][485]LogSavePackage: Moving '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Paper_Part_Auto29013A898467EE4856789C6B217E9DEE3.tmp' to '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Autosaves/Game/Tank/Blueprints/Parents/Paper_Part_Auto2.uasset'
+[2020.02.27-07.14.42:398][485]LogFileHelpers: Auto-saving content packages took 0.056
+[2020.02.27-07.16.33:609][116]LogSavePackage: Moving '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Paper_Part24EEE4D5499DBB683F2D3E8FEBBD2CBE.tmp' to '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/Tank/Blueprints/Parents/Paper_Part.uasset'
+[2020.02.27-07.16.33:622][116]AssetCheck: New page: Asset Save: Paper_Part
+[2020.02.27-07.16.33:622][116]LogContentValidation: Display: Validating Blueprint /Game/Tank/Blueprints/Parents/Paper_Part.Paper_Part
+[2020.02.27-07.16.44:178][348]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/TankDisplay.TankDisplay
+[2020.02.27-07.16.52:143][168]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/PartDisplay.PartDisplay
+[2020.02.27-07.19.33:986][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PartDisplay" FILE="../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/PartDisplay.uasset" SILENT=true
+[2020.02.27-07.19.34:008][537]LogSavePackage: Moving '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/PartDisplay6608B4914C1B76CBB2519CA14096BADF.tmp' to '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/PartDisplay.uasset'
+[2020.02.27-07.19.34:025][537]AssetCheck: New page: Asset Save: PartDisplay
+[2020.02.27-07.19.34:025][537]LogContentValidation: Display: Validating WidgetBlueprint /Game/PartDisplay.PartDisplay
+[2020.02.27-07.19.38:221][ 22]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.27-07.19.38:253][ 22]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.02.27-07.19.38:253][ 22]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.27-07.19.38:255][ 22]LogPlayLevel: [PlayLevel] Compiling PartDisplay before play...
+[2020.02.27-07.19.38:569][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2020.02.27-07.19.38:570][ 22]LogPlayLevel: PlayLevel: Blueprint regeneration took 317 ms (1 blueprints)
+[2020.02.27-07.19.38:570][ 22]PIE: New page: PIE session: 2DSideScrollerExampleMap (28/02/2020, 9:19:38 am)
+[2020.02.27-07.19.38:571][ 22]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.02.27-07.19.38:573][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002077s)
+[2020.02.27-07.19.38:574][ 22]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.02.27-07.19.38:574][ 22]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2020.02.27-07.19.38:574][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003022s)
+[2020.02.27-07.19.38:617][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.02.27-07.19.38:618][ 22]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.27-07.19.38:618][ 22]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.27-07.19.38:618][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.27-07.19.38:618][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.27-07.19.38:618][ 22]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.27-07.19.38:618][ 22]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.27-07.19.38:618][ 22]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.27-07.19.38:618][ 22]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.27-07.19.38:618][ 22]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.27-07.19.38:618][ 22]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.27-07.19.38:659][ 22]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.27-07.19.38:659][ 22]LogAudioMixer: Display: Name: LG FULL HD (NVIDIA High Definition Audio)
+[2020.02.27-07.19.38:659][ 22]LogAudioMixer: Display: Is Default: Yes
+[2020.02.27-07.19.38:659][ 22]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.27-07.19.38:659][ 22]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.27-07.19.38:659][ 22]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.27-07.19.38:659][ 22]LogAudioMixer: Display: Channel Order:
+[2020.02.27-07.19.38:659][ 22]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.27-07.19.38:659][ 22]LogAudioMixer: Display: 1: FrontRight
+[2020.02.27-07.19.38:671][ 22]LogAudioMixer: Display: Using Audio Device LG FULL HD (NVIDIA High Definition Audio)
+[2020.02.27-07.19.38:672][ 22]LogInit: FAudioDevice initialized.
+[2020.02.27-07.19.38:717][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-07.19.38:717][ 22]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.27-07.19.38:718][ 22]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.02.27-20.19.38
+[2020.02.27-07.19.38:718][ 22]LogWorld: Bringing up level for play took: 0.000958
+[2020.02.27-07.19.38:718][ 22]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.02.27-07.19.38:721][ 22]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_LinkToMap', from offset 388
+[2020.02.27-07.19.38:721][ 22]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Player/BasePlayer.BasePlayer_C:ReceiveBeginPlay
+	Function /Game/Player/BasePlayer.BasePlayer_C:ExecuteUbergraph_BasePlayer
+	Function /Game/Tank/Blueprints/Parents/Paper_Part.Paper_Part_C:AddNew
+	Function /Game/Tank/Blueprints/Parents/Paper_Part.Paper_Part_C:AddExisting
+
+[2020.02.27-07.19.43:693][ 22]LogSavePackage: Moving '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Paper_Part2D741D654B188524E0B22DB0880226D0.tmp' to '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/Tank/Blueprints/Parents/Paper_Part.uasset'
+[2020.02.27-07.19.45:124][ 22]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 6.104
+[2020.02.27-07.19.45:125][ 22]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.02.27-07.19.45:142][ 23]AssetCheck: New page: Asset Save: Paper_Part
+[2020.02.27-07.19.45:142][ 23]LogContentValidation: Display: Validating Blueprint /Game/Tank/Blueprints/Parents/Paper_Part.Paper_Part
+[2020.02.27-07.19.52:648][914]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-07.19.52:648][914]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-07.19.52:648][914]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.02.27-07.19.52:649][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-07.19.52:649][914]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.02.27-07.19.52:663][914]LogSlate: Window 'LivingWeapon Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.27-07.19.52:668][914]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-07.19.52:668][914]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.27-07.19.52:668][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.27-07.19.52:674][914]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.27-07.19.52:675][914]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.02.27-07.19.52:681][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.27-07.19.52:721][914]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-07.19.52:728][914]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.02.27-07.19.52:747][916]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.02.27-07.21.01:925][337]BlueprintLog: New page: Compile PartDisplay
+[2020.02.27-07.21.01:983][337]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.02.27-07.21.02:471][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PartDisplay" FILE="../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/PartDisplay.uasset" SILENT=true
+[2020.02.27-07.21.02:486][388]LogSavePackage: Moving '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/PartDisplay9AE4AE7644AC7D7803BBDFAB90E6A911.tmp' to '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/PartDisplay.uasset'
+[2020.02.27-07.21.02:500][388]AssetCheck: New page: Asset Save: PartDisplay
+[2020.02.27-07.21.02:500][388]LogContentValidation: Display: Validating WidgetBlueprint /Game/PartDisplay.PartDisplay
+[2020.02.27-07.25.15:731][720]AssetReimport: New page: Outstanding source content changes 9:25:15 am
+[2020.02.27-07.25.15:745][720]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/Tank/Textures/Part_Base_Empty.png)
+[2020.02.27-07.25.16:101][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/Textures/Part_Base_Empty" FILE="../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/Tank/Textures/Part_Base_Empty.uasset" SILENT=true
+[2020.02.27-07.25.16:115][721]LogSavePackage: Moving '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Part_Base_EmptyD543E5B24E980CA1B83284A1A0E32586.tmp' to '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/Tank/Textures/Part_Base_Empty.uasset'
+[2020.02.27-07.25.16:210][722]AssetCheck: New page: Asset Save: Part_Base_Empty
+[2020.02.27-07.25.16:210][722]LogContentValidation: Display: Validating Texture2D /Game/Tank/Textures/Part_Base_Empty.Part_Base_Empty
+[2020.02.27-07.25.19:185][ 74]AssetReimport: Importing new asset /Game/Tank/Textures/Part_Base_Empty.
+[2020.02.27-07.26.15:173][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PartDisplay" FILE="../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/PartDisplay.uasset" SILENT=true
+[2020.02.27-07.26.15:196][378]LogSavePackage: Moving '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/PartDisplay2D5E4926466397E30D08D0B243D8204D.tmp' to '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/PartDisplay.uasset'
+[2020.02.27-07.26.15:216][378]AssetCheck: New page: Asset Save: PartDisplay
+[2020.02.27-07.26.15:216][378]LogContentValidation: Display: Validating WidgetBlueprint /Game/PartDisplay.PartDisplay
+[2020.02.27-07.26.15:541][415]BlueprintLog: New page: Compile PartDisplay
+[2020.02.27-07.26.15:596][415]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2020.02.27-07.28.50:178][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TankDisplay" FILE="../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/TankDisplay.uasset" SILENT=true
+[2020.02.27-07.28.50:208][619]LogSavePackage: Moving '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/TankDisplay82C113264C7DF3945355E09580E7F384.tmp' to '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/TankDisplay.uasset'
+[2020.02.27-07.28.50:227][619]AssetCheck: New page: Asset Save: TankDisplay
+[2020.02.27-07.28.50:227][619]LogContentValidation: Display: Validating WidgetBlueprint /Game/TankDisplay.TankDisplay
+[2020.02.27-07.33.20:996][740]LogEditorTransaction: Undo Move Node
+[2020.02.27-07.35.05:692][889]LogSavePackage: Moving '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Paper_Part42160B1249D2E61F5ABD57B95B94C49A.tmp' to '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/Tank/Blueprints/Parents/Paper_Part.uasset'
+[2020.02.27-07.35.05:711][889]AssetCheck: New page: Asset Save: Paper_Part
+[2020.02.27-07.35.05:711][889]LogContentValidation: Display: Validating Blueprint /Game/Tank/Blueprints/Parents/Paper_Part.Paper_Part
+[2020.02.27-07.35.06:352][964]BlueprintLog: New page: Compile Paper_Part
+[2020.02.27-07.35.06:701][964]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2020.02.27-07.42.30:225][633]LogSavePackage: Moving '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Paper_Part54F0F99C499EF99FBCE687B87B75412F.tmp' to '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/Tank/Blueprints/Parents/Paper_Part.uasset'
+[2020.02.27-07.42.30:242][633]AssetCheck: New page: Asset Save: Paper_Part
+[2020.02.27-07.42.30:242][633]LogContentValidation: Display: Validating Blueprint /Game/Tank/Blueprints/Parents/Paper_Part.Paper_Part
+[2020.02.27-07.42.30:581][670]BlueprintLog: New page: Compile Paper_Part
+[2020.02.27-07.42.30:928][670]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2020.02.27-07.44.52:039][775]LogEditorTransaction: Undo Delete current selection
+[2020.02.27-07.46.23:446][ 75]LogSavePackage: Moving '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Paper_PartC67FB18D493FFB051A0BCE925ECA7F0F.tmp' to '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/Tank/Blueprints/Parents/Paper_Part.uasset'
+[2020.02.27-07.46.23:463][ 75]AssetCheck: New page: Asset Save: Paper_Part
+[2020.02.27-07.46.23:463][ 75]LogContentValidation: Display: Validating Blueprint /Game/Tank/Blueprints/Parents/Paper_Part.Paper_Part
+[2020.02.27-07.46.24:092][149]BlueprintLog: New page: Compile Paper_Part
+[2020.02.27-07.46.24:435][149]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2020.02.27-07.49.14:178][609]LogSavePackage: Moving '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Paper_Part2BB8E7AB4753F029893862A4BE1FE8C8.tmp' to '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/Tank/Blueprints/Parents/Paper_Part.uasset'
+[2020.02.27-07.49.14:196][609]AssetCheck: New page: Asset Save: Paper_Part
+[2020.02.27-07.49.14:196][609]LogContentValidation: Display: Validating Blueprint /Game/Tank/Blueprints/Parents/Paper_Part.Paper_Part
+[2020.02.27-07.49.14:381][629]BlueprintLog: New page: Compile Paper_Part
+[2020.02.27-07.49.14:736][629]LogUObjectHash: Compacting FUObjectHashTables data took   6.78ms
+[2020.02.27-07.49.43:341][794]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.02.27-07.49.43:341][794]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.045
+[2020.02.27-07.49.43:342][794]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/BasePlayer] ([1] browsable assets)...
+[2020.02.27-07.49.43:342][794]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/BasePlayer]
+[2020.02.27-07.49.43:370][794]LogSavePackage: Moving '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/BasePlayer_Auto3025D5C90450B9FD62C49008F7EC96491.tmp' to '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Autosaves/Game/Player/BasePlayer_Auto3.uasset'
+[2020.02.27-07.49.43:371][794]LogFileHelpers: Auto-saving content packages took 0.029
+[2020.02.27-07.52.05:809][721]LogSavePackage: Moving '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Paper_Part693F971B4DCA90A080F347B96381217D.tmp' to '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/Tank/Blueprints/Parents/Paper_Part.uasset'
+[2020.02.27-07.52.05:825][721]AssetCheck: New page: Asset Save: Paper_Part
+[2020.02.27-07.52.05:825][721]LogContentValidation: Display: Validating Blueprint /Game/Tank/Blueprints/Parents/Paper_Part.Paper_Part
+[2020.02.27-07.59.43:334][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.02.27-07.59.43:336][228]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.044
+[2020.02.27-07.59.43:336][228]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tank/Blueprints/Parents/Paper_Part] ([1] browsable assets)...
+[2020.02.27-07.59.43:336][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tank/Blueprints/Parents/Paper_Part]
+[2020.02.27-07.59.43:412][228]LogSavePackage: Moving '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Paper_Part_Auto4D9170DEC4BBF8FE3A99380A47468BC6B.tmp' to '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Autosaves/Game/Tank/Blueprints/Parents/Paper_Part_Auto4.uasset'
+[2020.02.27-07.59.43:412][228]LogFileHelpers: Auto-saving content packages took 0.077
+[2020.02.27-08.11.04:738][480]LogSavePackage: Moving '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Paper_Part1FF575194DE8F097F1B0679D1B2CFAEC.tmp' to '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/Tank/Blueprints/Parents/Paper_Part.uasset'
+[2020.02.27-08.11.04:753][480]AssetCheck: New page: Asset Save: Paper_Part
+[2020.02.27-08.11.04:753][480]LogContentValidation: Display: Validating Blueprint /Game/Tank/Blueprints/Parents/Paper_Part.Paper_Part
+[2020.02.27-08.12.38:896][490]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2020.02.27-08.12.38:896][490]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.049
+[2020.02.27-08.12.38:897][490]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TankDisplay] ([1] browsable assets)...
+[2020.02.27-08.12.38:897][490]OBJ SavePackage: Finished generating thumbnails for package [/Game/TankDisplay]
+[2020.02.27-08.12.38:897][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TankDisplay" FILE="../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Autosaves/Game/TankDisplay_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.02.27-08.12.38:936][490]LogSavePackage: Moving '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/TankDisplay_Auto58F4E6D8748F93F74B462C3961781CBAD.tmp' to '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/Autosaves/Game/TankDisplay_Auto5.uasset'
+[2020.02.27-08.12.38:936][490]LogFileHelpers: Auto-saving content packages took 0.040
+[2020.02.27-08.14.38:863][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TankDisplay" FILE="../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/TankDisplay.uasset" SILENT=true
+[2020.02.27-08.14.38:891][480]LogSavePackage: Moving '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/TankDisplay4D791D73434AD74D04365BA7B15E2234.tmp' to '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/TankDisplay.uasset'
+[2020.02.27-08.14.38:909][480]AssetCheck: New page: Asset Save: TankDisplay
+[2020.02.27-08.14.38:909][480]LogContentValidation: Display: Validating WidgetBlueprint /Game/TankDisplay.TankDisplay
+[2020.02.27-08.16.37:151][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TankDisplay" FILE="../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/TankDisplay.uasset" SILENT=true
+[2020.02.27-08.16.37:181][284]LogSavePackage: Moving '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/TankDisplayEB04FC4A479AA222612DF192A2AB92AB.tmp' to '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/TankDisplay.uasset'
+[2020.02.27-08.16.37:199][284]AssetCheck: New page: Asset Save: TankDisplay
+[2020.02.27-08.16.37:199][284]LogContentValidation: Display: Validating WidgetBlueprint /Game/TankDisplay.TankDisplay
+[2020.02.27-08.16.59:118][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TankDisplay" FILE="../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/TankDisplay.uasset" SILENT=true
+[2020.02.27-08.16.59:144][797]LogSavePackage: Moving '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Saved/TankDisplay73777F2248D4B8AD0C77EF9EEE515A76.tmp' to '../../../../Programming/PeoplePals/Program Files/LivingWeapon 4.24/Content/TankDisplay.uasset'
+[2020.02.27-08.16.59:161][797]AssetCheck: New page: Asset Save: TankDisplay
+[2020.02.27-08.16.59:161][797]LogContentValidation: Display: Validating WidgetBlueprint /Game/TankDisplay.TankDisplay
+[2020.02.27-08.17.01:305][ 44]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.27-08.17.01:335][ 44]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.02.27-08.17.01:335][ 44]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.27-08.17.01:349][ 44]LogPlayLevel: [PlayLevel] Compiling Paper_Part before play...
+[2020.02.27-08.17.01:350][ 44]LogPlayLevel: [PlayLevel]   Compiling Paper_Part_Core as a dependent...
+[2020.02.27-08.17.01:351][ 44]LogPlayLevel: [PlayLevel]   Compiling Paper_Part_Track as a dependent...
+[2020.02.27-08.17.01:351][ 44]LogPlayLevel: [PlayLevel]   Compiling Paper_Part_Core_Base as a dependent...
+[2020.02.27-08.17.01:351][ 44]LogPlayLevel: [PlayLevel]   Compiling Paper_Part_Track_Base as a dependent...
+[2020.02.27-08.17.01:669][ 44]LogPlayLevel: [PlayLevel] Compiling TankDisplay before play...
+[2020.02.27-08.17.01:676][ 44]LogBlueprint: Error: [Compiler TankDisplay] This blueprint (self) is not a CanvasPanelSlot, therefore ' Target ' must have a connection.
+[2020.02.27-08.17.01:676][ 44]LogBlueprint: Error: [Compiler TankDisplay] This blueprint (self) is not a CanvasPanelSlot, therefore ' Target ' must have a connection.
+[2020.02.27-08.17.02:001][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2020.02.27-08.17.02:002][ 44]LogPlayLevel: PlayLevel: Blueprint regeneration took 666 ms (6 blueprints)
+[2020.02.27-08.17.02:002][ 44]BlueprintLog: Warning: Blueprint failed to compile:  TankDisplay
+[2020.02.27-08.17.02:002][ 44]LogCustomDialog: Dialog displayed:
+[2020.02.27-08.17.03:475][ 44]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2020.02.27-08.17.30:442][174]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.27-08.17.30:474][174]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.02.27-08.17.30:474][174]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.27-08.17.30:475][174]LogPlayLevel: [PlayLevel] Compiling TankDisplay before play...
+[2020.02.27-08.17.30:812][174]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2020.02.27-08.17.30:813][174]LogPlayLevel: PlayLevel: Blueprint regeneration took 340 ms (1 blueprints)
+[2020.02.27-08.17.30:814][174]PIE: New page: PIE session: 2DSideScrollerExampleMap (28/02/2020, 10:17:30 am)
+[2020.02.27-08.17.30:814][174]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.02.27-08.17.30:817][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003094s)
+[2020.02.27-08.17.30:818][174]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.02.27-08.17.30:818][174]LogPlayLevel: PIE: World Init took: (0.000936s)
+[2020.02.27-08.17.30:818][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004177s)
+[2020.02.27-08.17.30:861][174]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.02.27-08.17.30:861][174]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.27-08.17.30:861][174]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.27-08.17.30:861][174]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.27-08.17.30:861][174]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.27-08.17.30:861][174]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.27-08.17.30:861][174]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.27-08.17.30:861][174]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.27-08.17.30:861][174]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.27-08.17.30:861][174]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.27-08.17.30:861][174]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.27-08.17.30:902][174]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.27-08.17.30:902][174]LogAudioMixer: Display: Name: LG FULL HD (NVIDIA High Definition Audio)
+[2020.02.27-08.17.30:902][174]LogAudioMixer: Display: Is Default: Yes
+[2020.02.27-08.17.30:902][174]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.27-08.17.30:902][174]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.27-08.17.30:902][174]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.27-08.17.30:902][174]LogAudioMixer: Display: Channel Order:
+[2020.02.27-08.17.30:902][174]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.27-08.17.30:902][174]LogAudioMixer: Display: 1: FrontRight
+[2020.02.27-08.17.30:912][174]LogAudioMixer: Display: Using Audio Device LG FULL HD (NVIDIA High Definition Audio)
+[2020.02.27-08.17.30:914][174]LogInit: FAudioDevice initialized.
+[2020.02.27-08.17.30:967][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-08.17.30:967][174]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.27-08.17.30:969][174]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.02.27-21.17.30
+[2020.02.27-08.17.30:969][174]LogWorld: Bringing up level for play took: 0.000986
+[2020.02.27-08.17.30:969][174]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.02.27-08.17.30:972][174]LogOutputDevice: Warning: 
+
+Script Stack (2 frames):
+BasePlayer_C.ExecuteUbergraph_BasePlayer
+BasePlayer_C.ReceiveBeginPlay
+
+[2020.02.27-08.17.30:972][174]LogWindows: Windows GetLastError: The operation completed successfully. (0)
